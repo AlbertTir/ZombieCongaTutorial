@@ -1,0 +1,4 @@
+Part 1 - Movement with mouse and clicks. Basics of Unity
+Part 2 - Animations with code
+Part 3 - Animations with Unity tools
+Part 4 - Physics and screen sizes
